@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CardCollectViewer</string>
+    <string name="element_text">default</string>
+    <string name="header_text">Number of decks: 0</string>
+    <string name="refresh_button_Text">Refresh</string>
+    <string name="radio_simple_text">Simple Only</string>
+    <string name="radio_detailed_text">Detailed Only</string>
+    <string name="radio_all_text">All Decks</string>
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "19404033277",
+    "project_id": "cardcollect-bbefd",
+    "storage_bucket": "cardcollect-bbefd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19404033277:android:1e62d58744db35d1efc294",
+        "android_client_info": {
+          "package_name": "com.example.cardcollectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19404033277-8h3sc9pcjmbqdmqdfro704rv7rhpccbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD074pRWXjR0cfkZDaCJuDZfo8hOdqq4xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19404033277-8h3sc9pcjmbqdmqdfro704rv7rhpccbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19404033277:android:71d5e6e8454cb1e2efc294",
+        "android_client_info": {
+          "package_name": "com.example.cardcollectviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19404033277-8h3sc9pcjmbqdmqdfro704rv7rhpccbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD074pRWXjR0cfkZDaCJuDZfo8hOdqq4xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19404033277-8h3sc9pcjmbqdmqdfro704rv7rhpccbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
